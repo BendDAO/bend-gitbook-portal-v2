@@ -17,3 +17,7 @@
 
 * [Audits](security-and-risks/audits.md)
 * [Risks](security-and-risks/risks.md)
+
+## USER GUIDES
+
+* [Migrating Positions from v1 to v2](user-guides/migrating-positions-from-v1-to-v2.md)
