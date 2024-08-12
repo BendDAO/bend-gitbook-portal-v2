@@ -8,6 +8,8 @@ V2 Protocol has three user sides to it:
 * Borrowers can use ERC20 & NFT as collaterals to borrow assets in an overcollateralized fashion.
 * Leverage users can use NFT as collaterals to borrow assets to create leverage positions, which can be used across DeFi, NFTs, RWA, etc.
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>BendDAO V2</p></figcaption></figure>
+
 ## Cool Features
 
 *   #### **Restaking Specialized Loan**
@@ -19,3 +21,4 @@ V2 Protocol has three user sides to it:
 * **Custom Interest Rates**.&#x20;
 * **Modularity**. V2 Protocol is not just a couple of pools, it's an new architecture of smart contracts which are plug-and-play enabled.
 * **Composability**. Other protocols can offer leverage to their users with the help of V2 Protocol, without modifying anything in their own architecture.
+
