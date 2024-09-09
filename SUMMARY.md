@@ -8,9 +8,10 @@
 * [Cross Margin Lending](concepts/cross-margin-lending.md)
 * [Isolated Margin Lending](concepts/isolated-margin-lending.md)
 * [Leverage Lending](concepts/leverage-lending.md)
-* [Liquidation](concepts/liquidation.md)
 * [Interest Rate Models](concepts/interest-rate-models.md)
+* [Liquidation](concepts/liquidation.md)
 * [Flash Loans](concepts/flash-loans.md)
+* [Custom Pools](concepts/custom-pools.md)
 * [Governance & Fees](concepts/governance-and-fees.md)
 
 ## SECURITY & RISKS

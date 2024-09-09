@@ -5,3 +5,5 @@ Isolated Margin means the protocol will calculate the heath factor based on sing
 In this model, the liquidation of collateral will be achieved through an auction mechanism.
 
 When should this mode be used? Users believe that their NFT items have some special value, such as used it for PFP.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

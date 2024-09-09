@@ -9,3 +9,4 @@ What can you do with leverage lending?
 * Leverage farming stablecoins, ETH, and many delta-neutral strategies.
 * Margin trading on Uniswap, Curve, and other real spot DEXes.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
