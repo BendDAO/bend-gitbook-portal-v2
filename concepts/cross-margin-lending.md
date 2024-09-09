@@ -4,4 +4,4 @@ Cross Margin means that the protocol will calculate the health-factor of the acc
 
 In this model, the liquidation of collateral will be immediate. The liquidator will repay the debt on behalf of the borrower and take the user's collateral assets at a certain discount price.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
