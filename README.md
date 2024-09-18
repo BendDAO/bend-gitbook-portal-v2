@@ -12,13 +12,13 @@ V2 Protocol has three user sides to it:
 
 ## Cool Features
 
-*   #### **Restaking Specialized Loan**
+*   #### **Leverage Lending for Staking & Restaking**
 
-    BendDAO V2 introduces the first restaking service for NFT holders to earn passive income by Specialized Loan. This groundbreaking feature for bluechip NFTs comes with the V2 update—an exciting development in the realm of DeFi and Restaking. This **Restaking Specialized Loan** feature, leveraging liquid staking and restaking, is designed to revolutionize how NFT holders can capture ETH ecosystem development benefits when holding NFTs.
+    BendDAO V2 introduces the first staking & restaking service for NFT holders to earn passive income by leverage lending. This groundbreaking feature for bluechip NFTs comes with the V2 update—an exciting development in the realm of DeFi and Restaking. This new feature, leveraging liquid staking and restaking, is designed to revolutionize how NFT holders can capture ETH ecosystem development benefits when holding NFTs.
 * **Cross Margin Lending**. Based on the whole account, borrowers can use multiple assets as collateral for lending and lower the liquidation risk.
 * **Isolated Margin Lending**. Based on individual NFT assets for lending, when these NFT assets face liquidation, and auction will be triggered, which is more in line with market pricing.
 * **Custom Lending Pools**. Developers can create their own lending pools, customize pool listing assets and risk parameters according to their requirements, such as LTV, interest rate model, etc.
 * **Custom Interest Rates**. The interest rate is determined by the market conditions of the collateral, and different types of assets have different interest rates.
 * **Modularity**. V2 Protocol is not just a couple of pools, it's an new architecture of smart contracts which are plug-and-play enabled.
-* **Composability**. Other protocols can offer leverage to their users with the help of V2 Protocol, without modifying anything in their own architecture.
+* **Composability**. Third-party protocols can offer leverage to their users with the help of V2 Protocol, without modifying anything in their own architecture.
 
