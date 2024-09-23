@@ -8,7 +8,7 @@ V2 Protocol has three user sides to it:
 * Borrowers can use ERC20 & NFT as collaterals to borrow assets in an overcollateralized fashion.
 * Leverage users can use NFT as collaterals to borrow assets to create leverage positions, which can be used across DeFi, NFTs, RWA, etc.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>BendDAO V2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>BendDAO V2</p></figcaption></figure>
 
 ## Cool Features
 

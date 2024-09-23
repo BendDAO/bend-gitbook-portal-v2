@@ -11,4 +11,4 @@ $$U$$ is an indicator of the availability of capital in the pool. The interest r
 * When capital is available: lower interest rates to encourage loans.
 * When capital is scarce: higher interest rates encourage repayments for the loans and additional deposits.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Interest Curve Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Interest Curve Example</p></figcaption></figure>
