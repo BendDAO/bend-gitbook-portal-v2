@@ -5,6 +5,7 @@
 
 ## Concepts
 
+* [Modular Lending Protocol](concepts/modular-lending-protocol.md)
 * [Cross Margin Lending](concepts/cross-margin-lending.md)
 * [Isolated Margin Lending](concepts/isolated-margin-lending.md)
 * [Leverage Lending](concepts/leverage-lending.md)
