@@ -10,6 +10,7 @@ Based on the V2 protocol, we can build the PayFi feature which enable users usin
 * Adding stable coin assets into the pool;
 * Adding collateral assets into the pool;
 * Configure risk parameters for the collateral assets, e.g. LTV, Interest Rate;
+* Implement FrontEnd or Mobile App which interact with the custom pools;
 
 ### Lenders
 
@@ -25,3 +26,4 @@ Based on the V2 protocol, we can build the PayFi feature which enable users usin
 * Repay stable coin into the pool at anytime;
 * Withdraw collateral assets from the pool;
 
+Our partners can check the [integration guides](https://app.gitbook.com/s/AcNgbolMNcv8KZWFmLvR/integration-guides) to simplify the development.
