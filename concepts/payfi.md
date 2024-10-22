@@ -2,6 +2,8 @@
 
 Based on the V2 protocol, we can build the PayFi feature which enable users using crypto in real life, buy a coffee at your local shop or book your next hotel stay. You can get the credit card that let’s you pay in crypto!
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>PayFi Service Flow</p></figcaption></figure>
 
 ### Card Providers

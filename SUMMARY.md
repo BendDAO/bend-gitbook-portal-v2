@@ -12,6 +12,7 @@
 * [Interest Rate Models](concepts/interest-rate-models.md)
 * [Custom Pools](concepts/custom-pools.md)
 * [PayFi](concepts/payfi.md)
+* [Yield Market](concepts/yield-market.md)
 * [Liquidation](concepts/liquidation.md)
 * [Flash Loans](concepts/flash-loans.md)
 * [Governance & Fees](concepts/governance-and-fees.md)
