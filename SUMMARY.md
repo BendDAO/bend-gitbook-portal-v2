@@ -10,9 +10,10 @@
 * [Isolated Margin Lending](concepts/isolated-margin-lending.md)
 * [Leverage Lending](concepts/leverage-lending.md)
 * [Interest Rate Models](concepts/interest-rate-models.md)
+* [Custom Pools](concepts/custom-pools.md)
+* [PayFi](concepts/payfi.md)
 * [Liquidation](concepts/liquidation.md)
 * [Flash Loans](concepts/flash-loans.md)
-* [Custom Pools](concepts/custom-pools.md)
 * [Governance & Fees](concepts/governance-and-fees.md)
 
 ## SECURITY & RISKS
