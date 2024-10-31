@@ -30,24 +30,26 @@ The definition for Health Factor:
 
 SUM(All Collaterals Value) / SUM(All Debts Value).
 
-Collateral Value = NFT Floor Price \* Collateral Factor + Yield Amount \* Yield Token Price.
+Collateral Value = NFT Floor Price \* Collateral Factor + Yield Token Amount \* Yield Token Price.
 
-Debt Value = Debt Amount with interest \* Debt Token Price.
+Debt Value = Debt Token Amount with interest \* Debt Token Price.
 
 For example, Using BAYC in Lido Staking:
 
-At the beginning:
+**At the beginning**:
 
-BAYC Floor Price = 20 ETH; stETH Floor Price = 0.9997;
+BAYC Floor Price = 20 ETH;
 
 Borrow Amount = 20 ETH \* 5 = 100 ETH, staked in the Lido Protocol;
 
-After the staking in some days:
+**After the staking in some days**:
 
-Yield Amount = 101 stETH with some staking yield;
+stETH Price = 0.9997 ETH;
 
-Collateral Value = 20 ETH \* 0.9 + 101 \* 0.9997 = 118.9697;
+Yield Amount = 101 stETH, with some staking yield;
 
-Debt Value = 100.5 ETH with some borrow interest;
+Collateral Value = 20 ETH \* 0.9 + 101 \* 0.9997 ETH = 118.9697 ETH;
+
+Debt Value = 100.5 ETH, with some borrow interest;
 
 Health Factor = 118.9697 / 100.5 = 1.1837781094527364;
