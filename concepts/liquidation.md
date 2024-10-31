@@ -1,10 +1,16 @@
 # Liquidation
 
+{% hint style="info" %}
+This contents is only for the lending in V2 protocol. There's no liquidation for the staking in yield markets.
+{% endhint %}
+
 The V2 Protocol utilises a scored 'health factor' for debts. Liquidation will be triggered if the debt's health factor is below 1.
 
 ## Meaning of Health Factor <a href="#meaning-of-health-factor" id="meaning-of-health-factor"></a>
 
-The definition for Health Factor: (Floor Price \* Liquidation Threshold) / Debt with Interests.
+The definition for Health Factor:
+
+SUM(All Collaterals Value) / SUM(All Debts Value).
 
 The risk level of the health factor:
 
@@ -26,3 +32,5 @@ No fee is taken by the V2 protocol at this level. The entire Liquidation Bonus g
 ## Isolate Margin Lending
 
 When the 'health factor' of an NFT loan is below 1, anyone can trigger a liquidation in terms of an NFT Auction. The liquidator is called Bidder on BendDAO. The bidder will pay back all of the debt and receive the collateralised NFT in return. The borrower can redeem his NFT to exit auction by repaying some loan debts (50% in default).
+
+## Staking in Yield Market

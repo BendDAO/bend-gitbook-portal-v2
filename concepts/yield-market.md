@@ -21,3 +21,33 @@ This strategy increases returns without exposing users to the liquidation risks 
 BAYC and MAYC holders can benefit from dual yields, allowing Apes to earn both ApeCoin and additional returns through V2’s yield strategies. This approach maximizes the rewards from holding Apes, optimizing overall returns without liquidation risk.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Liquidation
+
+There's **NO liquidation** for the staking in yield markets, and the heath-factor in the staking is only used for unstake forcefully if the HF below certain value (e.g. default is 1.05).
+
+The definition for Health Factor:
+
+SUM(All Collaterals Value) / SUM(All Debts Value).
+
+Collateral Value = NFT Floor Price \* Collateral Factor + Yield Amount \* Yield Token Price.
+
+Debt Value = Debt Amount with interest \* Debt Token Price.
+
+For example, Using BAYC in Lido Staking:
+
+At the beginning:
+
+BAYC Floor Price = 20 ETH; stETH Floor Price = 0.9997;
+
+Borrow Amount = 20 ETH \* 5 = 100 ETH, staked in the Lido Protocol;
+
+After the staking in some days:
+
+Yield Amount = 101 stETH with some staking yield;
+
+Collateral Value = 20 ETH \* 0.9 + 101 \* 0.9997 = 118.9697;
+
+Debt Value = 100.5 ETH with some borrow interest;
+
+Health Factor = 118.9697 / 100.5 = 1.1837781094527364;
