@@ -15,10 +15,10 @@ $$U$$ is an indicator of the availability of capital in the pool. The interest r
 
 The V2 protocol can adjust different interest rate parameters for different assets based on the market demand. The better the performance of an asset in the market, the more competitive the corresponding borrowing interest rate will be, and the change in the interest rate curve will be smoother.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Interest Curve Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Interest Curve Example</p></figcaption></figure>
 
 ### Rate for Yield Markets
 
 We can customize interest rate parameters for the Yield Market to make the fluctuation of borrow interest rate more moderate.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Yield Market Rate Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Yield Market Rate Example</p></figcaption></figure>

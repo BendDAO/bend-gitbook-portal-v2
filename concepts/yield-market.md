@@ -2,7 +2,7 @@
 
 We can build yield markets based on the [leverage lending](leverage-lending.md) in V2 protocol.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Yield Market</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Yield Market</p></figcaption></figure>
 
 ### NFT-backed Staking – Without Liquidation Risk
 
@@ -20,7 +20,7 @@ This strategy increases returns without exposing users to the liquidation risks 
 
 BAYC and MAYC holders can benefit from dual yields, allowing Apes to earn both ApeCoin and additional returns through V2’s yield strategies. This approach maximizes the rewards from holding Apes, optimizing overall returns without liquidation risk.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Liquidation
 
