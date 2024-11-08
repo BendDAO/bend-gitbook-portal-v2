@@ -23,6 +23,7 @@
 * [Audits](security-and-risks/audits.md)
 * [Risks](security-and-risks/risks.md)
 * [Multi-Signatures](security-and-risks/multi-signatures.md)
+* [Bug Bounty](security-and-risks/bug-bounty.md)
 
 ## USER GUIDES
 
