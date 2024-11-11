@@ -25,7 +25,7 @@ If you are a BendDAO ApeStaking user, go to the 1.2 directly.
 [https://v1.benddao.xyz/en/ape-staking/pool-staking/staking-pools/](https://v1.benddao.xyz/en/ape-staking/pool-staking/staking-pools/)
 
 * Select the NFT
-* Stake the NFT
+* Stake the NFT  (stBAYC/ stMAYC will be your wallet after the successful staking)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXciv\_YFi4w5aXpgIlNTrmhi0gEL92TLBSxFQ7uxENjRTTo2pOgSaCnRaJf-7pDXF0HvP3lat3kkArZ4EJShIz-6rtrNhhqwPO4qC5bn5f35P0V0vEO-hjsF25aQzJhzq8CZ-FQnjSFD0hyCbpzr8i734lHC?key=iCiBZIWDxv0G9mXZeSa37AW2)
 
