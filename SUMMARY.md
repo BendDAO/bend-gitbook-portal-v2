@@ -27,4 +27,5 @@
 
 ## USER GUIDES
 
+* [Earn Dual Yield with BAYC/MAYC](user-guides/earn-dual-yield-with-bayc-mayc.md)
 * [Migrating Positions from v1 to v2](user-guides/migrating-positions-from-v1-to-v2.md)
