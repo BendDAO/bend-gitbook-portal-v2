@@ -18,6 +18,8 @@
 
 [1.5 Earn Yield!](earn-dual-yield-with-bayc-mayc.md#id-1.5-earn-yield)
 
+{% embed url="https://www.youtube.com/watch?v=KwnSwbvfuNo" %}
+
 ### 1.1  Choose the Yield Market
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdqasZXRBqdUx-CkcXIl1G0JlzdicBlfyOwqkFlGE-jVNtNAftwHkoTxKqaMnookPVvip32UsMhXJUbBWAaphpi9Bg76KEux8SRqlIOegTve0reB3J02f6gI19DqWGMCZYgb4WA3Q?key=iCiBZIWDxv0G9mXZeSa37AW2)
