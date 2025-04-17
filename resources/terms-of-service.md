@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: 2024-06-01'
+description: 'Last Updated: 2025-04-17'
 ---
 
 # TERMS OF SERVICE
@@ -16,7 +16,7 @@ These Terms of Use ("Terms") govern your access to and use of both the benddao.x
 
 **You are entering into a binding Agreement.**
 
-BY ACCESSING OR USING OUR SERVICES, WHICH INCLUDE OUR VARIOUS WEBSITES, INCLUDING, WITHOUT LIMITATION, BENDAO.XYZ (AND ANY RESPECTIVE SUBDOMAINS); APPLICATIONS, AND OTHER SERVICES THAT LINK TO THESE TERMS, AS WELL AS ANY INFORMATION, TEXT, LINKS, GRAPHICS, PHOTOS, AUDIO, VIDEO, OR OTHER MATERIALS STORED, RETRIEVED OR APPEARING THEREON, WHETHER ACCESSED THROUGH THE SITE OR OTHERWISE (COLLECTIVELY, THE "SERVICES"), YOU ARE ENTERING INTO A BINDING AGREEMENT WITH US THAT INCLUDES THESE TERMS, PRIVACY POLICY (FOUND HERE), AND OTHER POLICIES REFERENCED HEREIN (COLLECTIVELY, THE "AGREEMENT").
+BY ACCESSING OR USING OUR SERVICES, WHICH INCLUDE OUR VARIOUS WEBSITES, INCLUDING, WITHOUT LIMITATION, BENDDAO.XYZ (AND ANY RESPECTIVE SUBDOMAINS); APPLICATIONS, AND OTHER SERVICES THAT LINK TO THESE TERMS, AS WELL AS ANY INFORMATION, TEXT, LINKS, GRAPHICS, PHOTOS, AUDIO, VIDEO, OR OTHER MATERIALS STORED, RETRIEVED OR APPEARING THEREON, WHETHER ACCESSED THROUGH THE SITE OR OTHERWISE (COLLECTIVELY, THE "SERVICES"), YOU ARE ENTERING INTO A BINDING AGREEMENT WITH US THAT INCLUDES THESE TERMS, PRIVACY POLICY (FOUND HERE), AND OTHER POLICIES REFERENCED HEREIN (COLLECTIVELY, THE "AGREEMENT").
 
 To the extent that there is a conflict between these Terms and any applicable additional terms, these Terms will control unless expressly stated otherwise. If you don't agree with these Terms, you may not use the Services and should not visit the Site or otherwise engage with the Services.
 
@@ -53,10 +53,6 @@ You acknowledge that we do not have information regarding all BendDAO Protocol t
 **There may be associated blockchain fees.**
 
 Transactions using blockchains may require the payment of gas fees, which are essentially network transaction fees paid on every transaction that occurs on the selected blockchain network. Please note that gas fees are non-refundable. We do not provide any services to users or deliver, hold, and/or receive payment for cryptoassets. We do not receive any fees for any transactions or the Services.
-
-**You understand that the Interface is hosted on a decentralized infrastructure for storing and accessing data and content, IPFS.**
-
-The Interface is hosted on the InterPlanetary File System ("IPFS"), a decentralized and distributed network protocol allowing for the storage and retrieval of files in a peer-to-peer manner, utilizing a distributed network of computers rather than relying on a central server. This means that the Interface's files are not stored in a single location but are instead spread across multiple nodes within the IPFS network.
 
 #### 3. Assumption of Risk
 
