@@ -3,6 +3,10 @@
 * [Overview](README.md)
 * [FAQs](faqs.md)
 
+## ApeStaking on ApeChain&#x20;
+
+* [User Guide](apestaking-on-apechain/user-guide.md)
+
 ## Concepts
 
 * [Modular Lending Protocol](concepts/modular-lending-protocol.md)
