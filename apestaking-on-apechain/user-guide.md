@@ -23,4 +23,6 @@ NFT stakers are users who stake their NFTs through BendDAO, pairing them with Ap
 
 #### Borrowers (including BAYC, and MAYC)
 
-Users who take loans against their BAYC/MAYC can still delegate via BendDAO to enable the Shadow NFT on ApeChain for staking participation. However, the new BendDAO ApeStaking on ApeChain does not support pairing services, which means users need to provide the ApeCoin themselves.
+Users who take loans against their BAYC/MAYC can still delegate via BendDAO to enable the Shadow NFT on ApeChain for staking participation.&#x20;
+
+However, the new BendDAO ApeStaking on ApeChain does not support pairing services for Shadow NFTs, which means users need to stake it on the official [ApechainStake.io](https://www.apechainstake.io/) and provide the ApeCoin themselves.
